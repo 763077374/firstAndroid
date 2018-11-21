@@ -1,1 +1,1 @@
-include ':app', ':binary', ':getrequest', ':webview'
+include ':app', ':binary', ':getrequest', ':webview', ':broadcastreceiver', ':timingalarmclock'
